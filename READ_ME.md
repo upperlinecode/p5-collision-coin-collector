@@ -14,8 +14,9 @@ Note: If you are coding along with the video, we suggest you open the video in a
 
 
 #### Using this template, you will be able to practice the following:
-- calling functions
-- using collision library
+- Using the random function in p5.
+- Using conditional statements. 
+- using the p5 collision library.
 
 
 #### Get Started:
